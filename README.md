@@ -32,12 +32,15 @@ Whether I'm diving deep into CNNs, XGBoost, NLP algorithms, or practicing my dat
 ### ⚡ Quick Facts:
 - 👯‍♀️ I’m always open to collaborating on **Machine Learning, Computer Vision, and IoT** projects.
 - 💬 Ask me about **starting a GDG chapter, balancing academics with community leadership, or optimizing deep learning models.**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/parinita-malisetty-5124ba292/)**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/parinita-malisetty-5124ba292/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+</a>**[LinkedIn](https://www.linkedin.com/in/parinita-malisetty-5124ba292/)**
 
 ---
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParinitaMalisetty&theme=tokyonight" alt="Parinita's Contribution Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParinitaMalisetty&hide=stars,commits,prs,issues&hide_rank=true&show_icons=true&theme=tokyonight&title_color=a9b1d6" alt="Parinita's Total Contributions" />
 </p>
+
 
