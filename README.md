@@ -1,4 +1,4 @@
-👋# Hi there, I'm Parinita Malisetty! 
+# Hi there, I'm Parinita Malisetty! 
 
 
 I'm a final year CSE (AI & ML) student at CMR Institute Of Technology, Hyderabad, passionate about building intelligent systems and fostering tech communities. I'm known for being more out of the classroom than in it by actively being a part of the GDGoC chapter on my campus and contribute to the editorial club, yet I still manage to maintain my spot as the 3rd topper in my department (9.25 CGPA)! 
