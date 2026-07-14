@@ -1,6 +1,5 @@
-# Hi there, I'm Parinita Malisetty! 👋 
+👋# Hi there, I'm Parinita Malisetty! 
 
-### 🚀 AI & ML Engineering Student | GDGoC PR Lead | Computer Vision Enthusiast
 
 I'm a final year CSE (AI & ML) student at CMR Institute Of Technology, Hyderabad, passionate about building intelligent systems and fostering tech communities. I'm known for being more out of the classroom than in it by actively being a part of the GDGoC chapter on my campus and contribute to the editorial club, yet I still manage to maintain my spot as the 3rd topper in my department (9.25 CGPA)! 
 
@@ -39,6 +38,6 @@ Whether I'm diving deep into CNNs, XGBoost, NLP algorithms, or practicing my dat
 
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ParinitaMalisetty" alt="Parinita's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParinitaMalisetty&theme=tokyonight" alt="Parinita's Contribution Activity" />
 </p>
 
