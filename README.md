@@ -39,6 +39,6 @@ Whether I'm diving deep into CNNs, XGBoost, NLP algorithms, or practicing my dat
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParinitaMalisetty&show_icons=true&theme=tokyonight" alt="Parinita's GitHub Stats" />
+  <img src="https://ghchart.rshah.org/ParinitaMalisetty" alt="Parinita's Contribution Graph" />
 </p>
 
