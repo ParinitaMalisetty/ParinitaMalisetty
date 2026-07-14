@@ -1,4 +1,4 @@
-# Hi there, I'm Parinita! 👋 
+# Hi there, I'm Parinita Malisetty! 👋 
 
 ### 🚀 AI & ML Engineering Student | GDGoC PR Lead | Computer Vision Enthusiast
 
@@ -17,12 +17,12 @@ Whether I'm diving deep into CNNs, XGBoost, NLP algorithms, or practicing my dat
 ---
 
 ### 💻 Tech Stack
-*(Here are some visual badges for your profile!)*
+
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AI/ML & Vision:**  
+**AI/ML & Computer Vision:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Web Development:**  
@@ -36,12 +36,9 @@ Whether I'm diving deep into CNNs, XGBoost, NLP algorithms, or practicing my dat
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/parinita-malisetty-5124ba292/)**
 
 ---
-### 📊 GitHub Stats
-*(To render these dynamically, just leave them as-is in your README!)*
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParinitaMalisetty&show_icons=true&theme=tokyonight" alt="Parinita's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParinitaMalisetty&theme=tokyonight" alt="Parinita's GitHub Streak" />
-</p>
+
