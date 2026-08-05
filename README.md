@@ -22,10 +22,3 @@ I'm a final year CSE (AI & ML) student at CMR Institute Of Technology, Hyderabad
 - 💬 Ask me about **starting a GDG chapter, balancing academics with community leadership, or optimizing deep learning models.**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parinita-malisetty-5124ba292/)
 
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParinitaMalisetty&theme=tokyonight" alt="Parinita's Stats" />
-</p>
-
-
