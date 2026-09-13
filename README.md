@@ -21,10 +21,10 @@ I've worked on computer vision and deep learning systems during my internship at
 
 | Project | Focus |
 |---|---|
-| [DetectWear-AI](YOUR_LINK) | Real-time Computer Vision & Object Detection |
-| [AWHCFS-CPDP](YOUR_LINK) | Feature Selection & Cross-Project Defect Prediction |
-| [RailPowerAI](YOUR_LINK) | Machine Learning & Railway Safety |
-| [Retinal Disease Detection](YOUR_LINK) | Deep Learning & Medical Image Analysis |
+| [DetectWear-AI](https://github.com/ParinitaMalisetty/DetectWear-AI) | Real-time Computer Vision & Object Detection |
+| [AWHCFS-CPDP]([https://github.com/ParinitaMalisetty/AWHCFS-CPDP]) | Feature Selection & Cross-Project Defect Prediction |
+| [RailPowerAI]([(https://github.com/ParinitaMalisetty/RailPowerAI)]) | Machine Learning & Railway Safety |
+| [Retinal Disease Detection][https://github.com/ParinitaMalisetty/A-Lesion-Based-Diabetic-Retinopathy-Detection-Through-Hybrid-Deep-Learning-Model] | Deep Learning & Medical Image Analysis |
 
 
 
