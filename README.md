@@ -1,7 +1,6 @@
 # Hi there, I'm Parinita Malisetty! 
 
 
-# Hi, I'm Parinita Malisetty 👋
 
 ### CSE (AI & ML) | Computer Vision | Machine Learning | Software Engineering
 
